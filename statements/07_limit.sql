@@ -1,0 +1,3 @@
+SELECT * FROM users LIMIT 3;
+
+SELECT * FROM users ORDER BY user_id DESC LIMIT 2;
