@@ -1,0 +1,1 @@
+SELECT email, init_date AS 'Fecha de inicio en programación' FROM users WHERE email = "juan@Nash.com"; 
